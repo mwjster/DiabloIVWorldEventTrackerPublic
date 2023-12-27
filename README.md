@@ -8,10 +8,15 @@ I have also created a simple Discord bot that will help keep your channel clean 
 
 Changelog:
 0.1.0 - Alpha ends, Closed beta begins 
+
 0.1.1 - Added tracking for upcoming events
+
 0.1.2 - Added tracking for what boss is coming in future events
+
 0.2.0 - Mini mode
+
 0.2.1 - General code fixes/cleanup
+
 0.2.2 - General code fixes/cleanup
 0.2.3 - General code fixes/cleanup
 0.2.4 - Fixed Helltide reporting incorrectly while the 5 min alert was in progress and a color glitch in the alerts.
